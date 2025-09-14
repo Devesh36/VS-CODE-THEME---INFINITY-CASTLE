@@ -1,14 +1,24 @@
 {
   "name": "infinity-castle",
   "displayName": "Infinity Castle",
-  "description": "",
+  "description": "A cozy dark theme inspired by castles and fantasy vibes for VS Code.",
   "version": "0.0.1",
+  "publisher": "Infinity",
   "engines": {
     "vscode": "^1.104.0"
   },
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Devesh36/VS-CODE-THEME---INFINITY-CASTLE"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Devesh36/VS-CODE-THEME---INFINITY-CASTLE/issues"
+  },
+  "homepage": "https://github.com/Devesh36/VS-CODE-THEME---INFINITY-CASTLE",
   "contributes": {
     "themes": [
       {
