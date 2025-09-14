@@ -1,0 +1,85 @@
+{
+  "name": "Infinity Castle - Castle Glow",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#0A0A0F", 
+    "editor.foreground": "#F5E6C4", 
+    "editorCursor.foreground": "#FFB347", 
+    "editor.lineHighlightBackground": "#1C141E", 
+    "editor.selectionBackground": "#3D2B1F", 
+    "editorIndentGuide.activeBackground": "#FFB347",
+    "activityBar.background": "#120E1A", 
+    "activityBar.foreground": "#FFD369",
+    "sideBar.background": "#0E0B15", 
+    "sideBar.foreground": "#E6E6E6",
+    "statusBar.background": "#1A1325", 
+    "statusBar.foreground": "#FFD369",
+    "titleBar.activeBackground": "#0A0A0F", 
+    "titleBar.activeForeground": "#FFD369",
+    "errorForeground": "#FF4A4A",
+    "terminal.background": "#0A0A0F",
+    "terminal.foreground": "#FFD369",
+    "terminalCursor.foreground": "#FFD369",
+    "terminal.ansiRed": "#FF6B6B",
+    "terminal.ansiGreen": "#FFD369",
+    "terminal.ansiYellow": "#FFEC99",
+    "terminal.ansiBlue": "#FFB347",
+    "terminal.ansiMagenta": "#FFC857",
+    "terminal.ansiCyan": "#E6D89E",
+    "terminal.ansiWhite": "#FFF4D2"
+  },
+  "tokenColors": [
+    {
+      "scope": "keyword",
+      "settings": { "foreground": "#FFD369", "fontStyle": "bold" }
+    },
+    {
+      "scope": "storage.type",
+      "settings": { "foreground": "#FFEC99" }
+    },
+    {
+      "scope": "string",
+      "settings": { "foreground": "#FFC857" }
+    },
+    {
+      "scope": "variable",
+      "settings": { "foreground": "#FFD369" }
+    },
+    {
+      "scope": "function",
+      "settings": { "foreground": "#FFB347" }
+    },
+    {
+      "scope": "entity.name.class",
+      "settings": { "foreground": "#FF9F1C", "fontStyle": "bold" }
+    },
+    {
+      "scope": "comment",
+      "settings": { "foreground": "#8C7A5B", "fontStyle": "italic" }
+    },
+    {
+      "scope": "constant.numeric",
+      "settings": { "foreground": "#FFD369" }
+    },
+    {
+      "scope": "operator",
+      "settings": { "foreground": "#FFC857" }
+    },
+    {
+      "scope": "entity.name.type",
+      "settings": { "foreground": "#FFE29A" }
+    },
+    {
+      "scope": "markup.heading",
+      "settings": { "foreground": "#FFD369", "fontStyle": "bold" }
+    },
+    {
+      "scope": "markup.bold",
+      "settings": { "fontStyle": "bold", "foreground": "#FFD369" }
+    },
+    {
+      "scope": "markup.italic",
+      "settings": { "fontStyle": "italic", "foreground": "#FFEC99" }
+    }
+  ]
+}
